@@ -1,0 +1,21 @@
+# core - pip install -r requirements.txt
+typesafe-sdk>=0.7.2
+python-dotenv>=1.0
+requests>=2.31
+numpy>=1.26
+sounddevice>=0.4.6
+faster-whisper>=1.0.3
+edge-tts>=6.1
+miniaudio>=1.59
+pyautogui>=0.9.54
+pygetwindow>=0.0.9
+pyperclip>=1.8
+pycaw>=20240210
+comtypes>=1.2
+pyttsx3>=2.90
+pywin32>=306
+mss>=9.0
+Pillow>=10.0
+
+# optional: screen reading (OCR) - uncomment to enable read_screen / click-by-text
+# winsdk>=1.0.0b10
